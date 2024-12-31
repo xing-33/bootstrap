@@ -47,21 +47,21 @@
     border-color: #C0392B;     /* Hover border color */
   }
   .custom-background1 {
-    background-image: url('/artisan-doing-woodcutting.jpg'); /* Add your image URL here */
+    background-image: url('artisan-doing-woodcutting.jpg'); /* Add your image URL here */
     background-size: cover;     /* Ensure the background image covers the entire container */
     background-position: center center; /* Center the image */
     background-repeat: no-repeat; /* Prevent the image from repeating */
     color: white; /* Text color to ensure visibility against the background */
   }
   .custom-background2 {
-    background-image: url('/carpenter-cutting-mdf-board-inside-workshop.jpg'); /* Add your image URL here */
+    background-image: url('carpenter-cutting-mdf-board-inside-workshop.jpg'); /* Add your image URL here */
     background-size: cover;     /* Ensure the background image covers the entire container */
     background-position: center center; /* Center the image */
     background-repeat: no-repeat; /* Prevent the image from repeating */
     color: white; /* Text color to ensure visibility against the background */
   }
   .custom-background3 {
-    background-image: url('/person-working-wood-working-industry-factory.jpg'); /* Add your image URL here */
+    background-image: url('person-working-wood-working-industry-factory.jpg'); /* Add your image URL here */
     background-size: cover;     /* Ensure the background image covers the entire container */
     background-position: center center; /* Center the image */
     background-repeat: no-repeat; /* Prevent the image from repeating */
